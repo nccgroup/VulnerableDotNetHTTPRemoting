@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VulnerableDotNetHTTPRemotingServer", "VulnerableDotNetHTTPRemotingServer\VulnerableDotNetHTTPRemotingServer.csproj", "{E4BC463B-3DBD-4FFB-A653-108F3EF18933}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemotableObjects", "RemotableObjects\RemotableObjects.csproj", "{BFE738C5-F31F-4BA6-935E-E72F4451B932}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VulnerableDotNetHTTPRemotingClient", "VulnerableDotNetHTTPRemotingClient\VulnerableDotNetHTTPRemotingClient.csproj", "{48AA5AAE-5434-4032-93E5-F39B12A9791F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4BC463B-3DBD-4FFB-A653-108F3EF18933}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4BC463B-3DBD-4FFB-A653-108F3EF18933}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4BC463B-3DBD-4FFB-A653-108F3EF18933}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4BC463B-3DBD-4FFB-A653-108F3EF18933}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFE738C5-F31F-4BA6-935E-E72F4451B932}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFE738C5-F31F-4BA6-935E-E72F4451B932}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFE738C5-F31F-4BA6-935E-E72F4451B932}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFE738C5-F31F-4BA6-935E-E72F4451B932}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48AA5AAE-5434-4032-93E5-F39B12A9791F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48AA5AAE-5434-4032-93E5-F39B12A9791F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48AA5AAE-5434-4032-93E5-F39B12A9791F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48AA5AAE-5434-4032-93E5-F39B12A9791F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73AA5C81-2A5C-479E-B46E-E28A750C060B}
+	EndGlobalSection
+EndGlobal
