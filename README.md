@@ -6,7 +6,7 @@ It also includes a copy of [ysoserial.net](https://github.com/pwntester/ysoseria
 
 ## Research:
 
-Please refer to [NCC Group's blog](https://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/)
+Please refer to [NCC Group's blog](https://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/2019/march/finding-and-exploiting-.net-remoting-over-http-using-deserialisation/)
 
 ## Copyright and License
 This project is copyright 2019, NCC Group, and licensed under the Apache license (see LICENSE).
